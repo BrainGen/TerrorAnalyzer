@@ -1,0 +1,282 @@
+gname
+taliban                                                         7478
+islamic state of iraq and the levant (isil)                     5758
+shining path (sl)                                               4555
+communist party of india - maoist (cpi-maoist)                  3508
+farabundo marti national liberation front (fmln)                3351
+al-shabaab                                                      3288
+new people's army (npa)                                         2772
+irish republican army (ira)                                     2671
+revolutionary armed forces of colombia (farc)                   2487
+boko haram                                                      2418
+kurdistan workers' party (pkk)                                  2310
+basque fatherland and freedom (eta)                             2024
+palestine liberation organization (plo)                         1741
+liberation tigers of tamil eelam (ltte)                         1606
+national liberation army of colombia (eln)                      1561
+tehrik-i-taliban pakistan (ttp)                                 1351
+muslim extremists                                               1272
+houthi extremists (ansar allah)                                 1062
+al-qaida in the arabian peninsula (aqap)                        1020
+nicaraguan democratic force (fdn)                                895
+manuel rodriguez patriotic front (fpmr)                          830
+sikh extremists                                                  716
+corsican national liberation front (flnc)                        639
+al-qaida in iraq                                                 638
+donetsk people's republic                                        624
+african national congress (south africa)                         607
+separatists                                                      589
+tupac amaru revolutionary movement (mrta)                        557
+m-19 (movement of april 19)                                      555
+abu sayyaf group (asg)                                           527
+fulani extremists                                                511
+sinai province of the islamic state                              445
+people's liberation front (jvp)                                  433
+national union for the total independence of angola (unita)      432
+hamas (islamic resistance movement)                              408
+hezbollah                                                        406
+bangsamoro islamic freedom movement (bifm)                       391
+algerian islamic extremists                                      373
+narco-terrorists                                                 368
+moro islamic liberation front (milf)                             366
+united liberation front of assam (ulfa)                          357
+tripoli province of the islamic state                            350
+khorasan chapter of the islamic state                            343
+protestant extremists                                            334
+chechen rebels                                                   328
+death squad                                                      326
+lord's resistance army (lra)                                     322
+baloch republican army (bra)                                     312
+mozambique national resistance movement (mnr)                    311
+movement of the revolutionary left (mir) (chile)                 306
+gunmen                                                           280
+al-nusrah front                                                  277
+popular liberation army (epl)                                    273
+ulster volunteer force (uvf)                                     270
+al-qaida in the islamic maghreb (aqim)                           262
+ulster freedom fighters (uff)                                    260
+al-gama'at al-islamiyya (ig)                                     259
+dev sol                                                          252
+neo-nazi extremists                                              247
+armed islamic group (gia)                                        236
+nicaraguan resistance                                            231
+tamils                                                           217
+red brigades                                                     217
+allied democratic forces (adf)                                   216
+salafist group for preaching and fighting (gspc)                 214
+janjaweed                                                        213
+first of october antifascist resistance group (grapo)            210
+luhansk people's republic                                        209
+sandinista national liberation front (fsln)                      209
+simon bolivar guerrilla coordinating board (cgsb)                206
+hizbul mujahideen (hm)                                           199
+anti-abortion extremists                                         199
+moro national liberation front (mnlf)                            197
+islamist extremists                                              194
+lashkar-e-taiba (let)                                            190
+palestinian islamic jihad (pij)                                  187
+armenian secret army for the liberation of armenia               186
+baloch liberation front (blf)                                    185
+baloch liberation army (bla)                                     181
+national democratic front of bodoland (ndfb)                     175
+muttahida qami movement (mqm)                                    174
+left-wing militants                                              173
+al-aqsa martyrs brigade                                          172
+hutu extremists                                                  168
+people's liberation forces (fpl)                                 167
+garo national liberation army                                    166
+khmer rouge                                                      160
+guerrilla army of the poor (egp)                                 157
+barqa province of the islamic state                              154
+islamic salvation front (fis)                                    153
+popular front for the liberation of palestine (pflp)             153
+runda kumpulan kecil (rkk)                                       150
+democratic revolutionary alliance (arde)                         141
+lashkar-e-jhangvi                                                139
+tribesmen                                                        136
+guatemalan national revolutionary unity (urng)                   131
+corsican national liberation front- historic channel             128
+left-wing guerrillas                                             127
+muslim brotherhood                                               125
+irish national liberation army (inla)                            124
+lashkar-e-islam (pakistan)                                       124
+free syrian army                                                 120
+fuerzas armadas de liberacion nacional (faln)                    120
+black september                                                  120
+revolutionary organization of people in arms (orpa)              117
+animal liberation front (alf)                                    117
+montoneros (argentina)                                           116
+free aceh movement (gam)                                         116
+november 17 revolutionary organization (n17ro)                   112
+mujahedin-e khalq (mek)                                          112
+the extraditables                                                109
+anarchists                                                       109
+united popular action movement                                   109
+white extremists                                                 105
+jihadi-inspired extremists                                       102
+sudan people's liberation movement in opposition (splm-io)       101
+opposition group                                                  99
+democratic front for the liberation of rwanda (fdlr)              99
+shanti bahini - peace force                                       99
+people's war group (pwg)                                          97
+dissident republicans                                             95
+irish republican extremists                                       94
+contras                                                           93
+pro hartal activists                                              92
+black nationalists                                                92
+communist party of nepal - maoist (cpn-maoist-chand)              91
+people's liberation army (india)                                  90
+national socialist council of nagaland-isak-muivah (nscn-im)      89
+united baloch army (uba)                                          89
+karen national union                                              88
+revolutionary people's struggle (ela)                             88
+bodo militants                                                    87
+uighur separatists                                                87
+movement for the emancipation of the niger delta (mend)           87
+new world liberation front (nwlf)                                 86
+haqqani network                                                   86
+ejercito revolucionaria del pueblo (erp) (argentina)              85
+communists                                                        84
+barisan revolusi nasional (brn)                                   84
+bangladesh nationalist party (bnp)                                84
+jewish defense league (jdl)                                       82
+movement of democratic forces of casamance                        79
+janatantrik terai mukti morcha- jwala singh (jtmm-j)              78
+anti-muslim extremists                                            78
+national liberation front of tripura (nlft)                       78
+kashmiri extremists                                               77
+militants                                                         77
+jemaah islamiya (ji)                                              76
+al-qaida                                                          74
+student radicals                                                  74
+ansar bayt al-maqdis (ansar jerusalem)                            73
+resistenza                                                        73
+paraguayan people's army (epp)                                    72
+anti-balaka militia                                               72
+earth liberation front (elf)                                      72
+right-wing extremists                                             72
+jamaat-e-islami (bangladesh)                                      70
+turkish people's liberation army                                  69
+mayi mayi                                                         68
+naxalites                                                         67
+united self defense units of colombia (auc)                       67
+gorkha janmukti morcha (gjm)                                      67
+asa'ib ahl al-haqq                                                67
+people's liberation front of india                                67
+red army faction (raf)                                            67
+revolutionary united front (ruf)                                  65
+ansar al-sharia (libya)                                           65
+people's revolutionary army (erp) (el salvador)                   64
+corsican separatists                                              63
+south-west africa people's organization (swapo)                   63
+ricardo franco front (dissident farc)                             62
+terra lliure                                                      62
+chukakuha (middle core faction)                                   61
+recontras                                                         61
+revolutionary cells                                               59
+southern mobility movement (yemen)                                59
+jamaat nusrat al-islam wal muslimin (jnim)                        59
+terrorists                                                        59
+gurkha national liberation front (gnlf)                           59
+sudan people's liberation movement - north                        59
+prima linea                                                       58
+thai islamic militants                                            58
+kosovo liberation army (kla)                                      58
+national socialist council of nagaland-khaplang (nscn-k)          57
+sindhu desh liberation army (sdla)                                57
+conspiracy of cells of fire                                       57
+iparretarrak (ik)                                                 57
+baader-meinhof group                                              56
+al-fatah                                                          56
+action directe                                                    55
+jammu and kashmir liberation front                                55
+omega-7                                                           55
+ansar al-dine (mali)                                              54
+movement for oneness and jihad in west africa (mujao)             53
+israeli settlers                                                  52
+indian mujahideen                                                 52
+moslem activists                                                  51
+guerrillas                                                        51
+abu nidal organization (ano)                                      51
+tawhid and jihad                                                  50
+inkatha freedom party (ifp)                                       50
+left-wing terrorists                                              50
+niger delta avengers (nda)                                        50
+revolutionary patriotic anti-fascist front (frap)                 49
+albanian extremists                                               49
+popular resistance committees                                     49
+patriotic resistance front in ituri (frpi)                        49
+strikers                                                          48
+anti-government extremists                                        48
+oglaigh na heireann                                               48
+pattani united liberation organization (pulo)                     48
+popular forces of april 25                                        47
+free galician people's guerrilla army                             47
+adan-abyan province of the islamic state                          47
+justice commandos for the armenian genocide                       46
+arakan rohingya salvation army (arsa)                             46
+democratic front for the liberation of palestine (dflp)           46
+weather underground, weathermen                                   45
+sudan people's liberation army (spla)                             45
+kachin independence army (kia)                                    45
+informal anarchist federation                                     45
+caucasus emirate                                                  44
+tribal group                                                      44
+hizb-i-islami                                                     44
+free papua movement (opm-organisasi papua merdeka)                44
+the new irish republican army                                     44
+23rd of september communist league                                44
+dishmish regiment                                                 43
+shia muslim extremists                                            43
+tuareg extremists                                                 42
+devrimici halk kurtulus cephesi (dhkp/c)                          42
+real irish republican army (rira)                                 41
+tupamaros (uruguay)                                               41
+brunswijk jungle commando                                         41
+paramilitaries                                                    41
+buddhist monks                                                    40
+hay'at tahrir al-sham                                             40
+lorenzo zelaya revolutionary front (lzrf)                         40
+official irish republican army (oira)                             40
+party for the liberation of the hutu people (palipehutu)          39
+awami league                                                      39
+kangleipak communist party (kcp)                                  39
+armed forces of national resistance (farn)                        39
+sunni muslim extremists                                           39
+taliban (pakistan)                                                38
+popular revolutionary bloc (bpr)                                  38
+jama'atul mujahideen bangladesh (jmb)                             38
+macheteros                                                        37
+jaish-e-mohammad (jem)                                            37
+rebels                                                            37
+rebel armed forces of guatemala (far)                             36
+black liberation army                                             36
+turkish people's liberation front (tplf)(thkp-c)                  36
+great eastern islamic raiders front (ibda-c)                      36
+national liberation army (nla) (macedonia)                        35
+al-naqshabandiya army                                             35
+maoist communist center (mcc)                                     35
+israeli extremists                                                35
+islamic front (syria)                                             35
+croatian nationalists                                             35
+islamic state in bangladesh                                       35
+misurasata indian organization                                    34
+canary islands independence movement                              34
+baloch nationalists                                               34
+janatantrik terai mukti morcha- goit (jtmm-g)                     34
+seleka                                                            34
+communist party of nepal-maoist (baidya)                          34
+breton liberation front (flb)                                     32
+ajnad misr                                                        32
+loyalists                                                         32
+national liberation front (fnl) (burundi)                         32
+janatantrik terai mukti morcha (jtmm)                             32
+lashkar-e-balochistan                                             32
+continuity irish republican army (cira)                           31
+turkish communist party/marxist (tkp-ml)                          31
+jewish extremists                                                 31
+chicano liberation front                                          31
+maute group                                                       31
+april 6th liberation movement                                     31
+meibion glyndwr                                                   31
+jaysh al-islam (syria)                                            31
