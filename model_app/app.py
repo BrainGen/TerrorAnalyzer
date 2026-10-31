@@ -2,10 +2,12 @@ import joblib
 import numpy as np
 import pandas as pd
 import streamlit as st
-
+from pathlib import Path
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_PATH = BASE_DIR / "linear_regression_model.pkl"
 @st.cache_resource
 def load_model():
-  return joblib.load(r"linear_regression_model.pkl")
+  return joblib.load(MODEL_PATH)
 
 model = load_model()
 st.title("Try out TerrorPredictor: A Linear Regression Project")
@@ -31,8 +33,6 @@ if submitted:
 
         st.success(f"### Predicted Terrorism Victims: {prediction:.4f}")
 
-        st.caption("Input passed to model:")
-        st.dataframe(input_data)
 
     except Exception as e:
         st.error(f"Inference failed: {e}")
