@@ -47,12 +47,15 @@ By far the biggest error I've knowingly made is assuming that terrorism works th
 So yes, this project is very much half baked. Thanks for reading through it anyway. 
 
 ## Setup
-If you just want to try out the project, you can do so here without any setup: [terroranalyzer website](terroranalyzer.streamlit.app). <br>
+If you just want to try out the project, you can do so here without any setup: [terroranalyzer website](https://braingen.github.io/TerrorAnalyzer/). <br>
+It may take a minute to load, so please have patience. <br>
 Prerequisite: Python 3.11 onwards, Jupyter.<br>
 Install dependancies:
 `pip install -r requirements.txt`
 ### Local Setup
-Navigate [here](model_app) and run `streamlit run app.py`<br>
+Navigate [here](model_app) and run python -m http.server 8000<br>
+Then, open [localhost 8000](http://localhost:8000/)
+It may take a minute to load.
 
 ### Model Training
 Run [RegressionTraining.ipynb](Code/RegressionTraining.ipynb)<br>
