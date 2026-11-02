@@ -10,7 +10,7 @@ def load_model():
   return joblib.load(MODEL_PATH)
 
 model = load_model()
-st.title("Try out TerrorPredictor: A Linear Regression Project")
+st.title("Try out TerrorAnalyzer: A Linear Regression Project")
 st.write("Enter your values to generate a prediction below. Each value is country specific. For example, No. of terrorism victims in the previous year refers to only one country's data")
 st.write("Disclaimer: This is an independent data science exploration and hobbyist project utilizing historical open-source conflict data. The predictive outputs are experimental, lack real-world validation, and are strictly intended for academic and technical demonstration. They must not be used for security analysis, operational forecasting, or decision-making. All data used in the training of this project is open-source. This model is known to be inaccurate, and hence must be used for mundane purposes only.")
 with st.form("prediction-form"):
