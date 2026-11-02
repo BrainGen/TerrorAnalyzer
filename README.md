@@ -4,7 +4,7 @@ Terrorism is a terrible, but predictable phenomenon. Predicting Terrorism allows
 
 
 You input these factors for a certain country in a particular year (and previous years), and get a prediction on future deaths due to terrorism. <br>
-Try it out [here](https://www.braingen.github.io/TerrorAnalyzer). It may take a minute to load.<br><br>
+Try it out [here](https://braingen.github.io/TerrorAnalyzer/). It may take a minute to load.<br><br>
 ***Disclaimer**: This is a hobbyist project built to help me learn how to build regression models and clean data. I don't claim this model is accurate, on the contrary I say it is not. Furthermore, it is built on data that is, in spite of the best of attempts, not entirely complete. I'm not making a statement on human worth, and this model certainly shouldn't be used for real world decision making. All the data used to train the model is open source. This is an experimental project and data outputted from it should be treated with extreme caution. This model is not fit for real world usecases, and should NOT be used for any purpose other than experimentation and other mundane and harmless tasks.*
 
 
